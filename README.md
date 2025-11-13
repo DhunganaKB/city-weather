@@ -49,7 +49,7 @@ store conversation history per user session.
 
 2. Start the FastAPI app with Uvicorn:
 
-   - cd city-weather
+   - cd city-weather/city_weather
    - uvicorn deployment.main:app --reload
 
 3. Send a POST request to /chat:
