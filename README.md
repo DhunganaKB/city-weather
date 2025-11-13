@@ -48,7 +48,7 @@ store conversation history per user session.
    pip install -r requirements.txt
 
 2. Start the FastAPI app with Uvicorn:
-
+    cd city-weather
     uvicorn deployment.main:app --reload
 
 3. Send a POST request to /chat:
