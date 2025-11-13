@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+google-cloud-firestore
+google-cloud-logging
+google-adk 
+google-genai
